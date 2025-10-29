@@ -1,5 +1,5 @@
 ---
-title: Web Applications
+title: Internet Applications
 sub_title: Node.js
 author: Suhel Hammoud
 
