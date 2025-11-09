@@ -429,4 +429,3 @@ npm run prod
 References:
 ===
 - https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
-- https://github.com/suhelhammoud/web-course
